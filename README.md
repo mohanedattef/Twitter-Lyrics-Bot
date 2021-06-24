@@ -5,7 +5,7 @@ This is a simple bot automated on pythonanywhere, the code is documented and is 
 I was bored and wanted to post marwan moussa lyrics without doing it myself 
 
 # details 
-Evertything will be easily explained inside the code so here are the file headlines:
+Everything will be easily explained inside the code so here are the file headlines:
 -bot.py
 contains the logic and authentication and the handling of the lyrics
 -lyricsmanaging.py
