@@ -1,4 +1,4 @@
-# Twitter-Bot-Using-Tweepy
+# Twitter Lyrics Bot
 This is a simple bot made with python and the tweepy library and automated using heroku, the code is documented and is fairly easy to use.
 
 # Why?
